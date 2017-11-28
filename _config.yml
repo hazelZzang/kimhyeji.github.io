@@ -1,9 +1,9 @@
 # Site Info
-title: Codinfox Lanyon
-tagline: 'A Jekyll theme based on Lanyon'
-description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
-baseurl: "/lanyon"
-url: http://codinfox.github.io
+title: Kim Hye Ji - Software Developer
+tagline: 'Study blog'
+description: 'The important thing is not to stop questioning. Curiosity has its own reason for existing.'
+baseurl: ""
+url: http://kimhyeji.github.io
 logo: '/public/logo.png'
 
 # Site configurations
@@ -26,14 +26,12 @@ version: 1.0.0
 author:
   name: Codinfox
   description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
-  gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
+  gravatar: 8a321be52bacf069aac45ee95c380c3d # md5 hash of your email address
   contact:
-    linkedin:  https://www.linkedin.com/in/lizhihao
-    github:    https://github.com/codinfox
-    # facebook:  <hide>
-    twitter:   https://twitter.com/Li_Zhihao
-    weibo:     http://weibo.com/41173780
-    email:     http://www.google.com/recaptcha/mailhide/d?k=01I3lZFiZYng9N3QxYEtsDaQ==&c=31wAnZkuKqcG0ATAqJN8Z3ln5kkYLA9TwkGc-IbygpM=
+    linkedin:  https://www.linkedin.com/in/hyeji
+    github:    https://github.com/kimhyeji
+    facebook:  https://www.facebook.com/137373gmailcom
+    email:     137373@gmail.com
 
 # Navigation (2nd level links supported)
 nav:
@@ -46,7 +44,7 @@ nav:
   About:          
     - '/about/'
   Github Project: 
-    - 'http://codinfox.github.io/'
+    - 'https://github.com/kimhyeji'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
@@ -60,4 +58,3 @@ hero:
 mathjax: true # whether support mathjax
 google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
 disqus_short_name: 'your_short_name' # leave blank if you don't want disqus
-
