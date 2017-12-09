@@ -1,6 +1,13 @@
 ---
 layout: post
 title: Example content
+categories: 
+ - WOW
+ - f
+tags:
+ - F
+ - D
+
 ---
 
 
